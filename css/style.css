@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+div{
+    background-color: rgb(37, 146, 37);
+    text-align: center;
+}
+.nav{
+    background-color: rgb(170, 99, 13);
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    float: left;
+
+}
+.article{
+     background-color: rgb(20, 115, 128);
+     text-align: center;
+     width:60%;
+     height: 500px;
+     float: left;
+
+}
+.ads{
+    background-color: maroon;
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    float: left;
+
+}
+.content{
+    overflow: hidden;
+}
+.footer{
+    background-color: olive;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
